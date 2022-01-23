@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vegas2co
-- 👀 I’m interested in coding, gyming, living, making money.
-- 🌱 I’m currently learning Pythonl Kotlin, Ruby, Swift, PHP, JavaScript, etc.
+- 👀 I’m interested in coding, gyming, investing, making money.
+- 🌱 I’m currently learning Python, Kotlin, Ruby, Swift, PHP, JavaScript, C#, etc.
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me Instagram _KW702
 
